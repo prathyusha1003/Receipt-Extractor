@@ -107,4 +107,7 @@ I sincerely apologize for this shortcoming and fully accept whatever outcome is 
 📬 Submission Info
 Repo link both frontend & backend : https://github.com/prathyusha1003/Receipt-Extractor
 
+Screenshots of Frontend UI
+![Frontend-1](https://github.com/user-attachments/assets/54753610-d2a6-4cab-bad4-5205a2b3cc89)
+
 
