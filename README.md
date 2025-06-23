@@ -108,6 +108,9 @@ I sincerely apologize for this shortcoming and fully accept whatever outcome is 
 Repo link both frontend & backend : https://github.com/prathyusha1003/Receipt-Extractor
 
 Screenshots of Frontend UI
+
 ![Frontend-1](https://github.com/user-attachments/assets/54753610-d2a6-4cab-bad4-5205a2b3cc89)
+
+![Frontend-2](https://github.com/user-attachments/assets/2a77eb86-770b-4461-8510-8ca276d4f1e9)
 
 
