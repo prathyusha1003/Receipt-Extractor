@@ -53,8 +53,6 @@ receipt-extractor/
 - Maven installed
 
 ### 🚀 Backend (Spring Boot)
-
-```bash
 cd backend
 mvn clean install
 mvn spring-boot:run
@@ -62,9 +60,6 @@ Runs on: http://localhost:8080
 Ensure Tesseract is installed and accessible via system path
 
 🚀 Frontend (React)
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm start
@@ -72,11 +67,8 @@ Runs on: http://localhost:3000
 
 📸 How it Works
 User uploads .jpg, .jpeg, or .png receipt image
-
 Image is sent to /api/extract-receipt-details API
-
 Backend uses Tesseract OCR to extract key details
-
 Extracted data + image are stored and returned to frontend
 
 Frontend displays the extracted receipt details
@@ -115,20 +107,4 @@ I sincerely apologize for this shortcoming and fully accept whatever outcome is 
 📬 Submission Info
 Repo link both frontend & backend : https://github.com/prathyusha1003/Receipt-Extractor
 
-Form Submitted: ✅
-
-🙋 Contact
-Prathyusha R
-📧 [prathyumanju@gmail.com]
-📎 [LinkedIn - https://www.linkedin.com/in/prathyusha1003/]
-
-Screenshots of Receipt-Extractor App
-
-![Frontend-1](https://github.com/user-attachments/assets/8c433f6f-12c5-4099-8e9c-9b5b2a12aff2)
-
-![Frontend-2](https://github.com/user-attachments/assets/d00f5b75-a650-4ac6-acc3-7ed52648952f)
-
-![Frontend-3](https://github.com/user-attachments/assets/c15deb32-fd78-4c40-9fd9-c21614030a89)
-
-![Frontend-4](https://github.com/user-attachments/assets/b1b5d093-8542-4721-9881-e7a5c61f8b83)
 
